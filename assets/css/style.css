@@ -23,6 +23,7 @@ ul.inner-menu {
     justify-content: space-around;
     align-items: center;
     margin: 0px;
+    color: #0a0a0a;
 }
 ul.inner-menu li a {
     text-decoration: none;
